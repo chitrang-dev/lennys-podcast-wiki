@@ -1,6 +1,6 @@
 ---
 type: source
-title: "5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)"
+title: 5 essential questions to craft a winning strategy | Roger Martin (author, advisor, speaker)
 status: active
 created: 2026-04-05
 updated: 2026-04-05
@@ -9,16 +9,15 @@ tags:
   - podcast
   - growth
   - onboarding
-  - user research
   - conversion
   - pricing
-guest: "Roger Martin"
-channel: "Lenny's Podcast"
+guest: Roger Martin
+channel: Lenny's Podcast
 video_id: y7SN4FK8noY
 youtube_url: https://www.youtube.com/watch?v=y7SN4FK8noY
 publish_date: 2024-07-25
-duration: "1:22:03"
-duration_seconds: 4923.0
+duration: 1:22:03
+duration_seconds: 4923
 view_count: 111686
 source_files:
   - raw/inbox/roger-martin/transcript.md

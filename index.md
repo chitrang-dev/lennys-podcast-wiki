@@ -3,7 +3,7 @@ type: dashboard
 title: Index
 status: active
 created: 2026-04-04
-updated: 2026-04-05
+updated: 2026-04-07
 tags:
   - index
 ---
@@ -69,4 +69,8 @@ The vault is now large enough that the main navigation should happen through das
 
 ## Analyses
 
-- None yet.
+- [[wiki/analyses/2026-04-07 - Roger Martin on Crafting a Winning Strategy]] - A practical synthesis of Roger Martin's strategy episode and how to apply the five-question cascade.
+
+## Templates
+
+- [[templates/Winning Strategy - 5 Questions Template]] - Reusable worksheet for crafting a winning strategy using Roger Martin's five questions.

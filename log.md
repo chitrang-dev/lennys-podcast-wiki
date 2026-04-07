@@ -46,3 +46,9 @@ This is the append-only activity log for the wiki.
 
 - Split the strategy topic into focused subpages for diagnosis and choice, where to play/how to win, execution and management systems, and product strategy for teams.
 - Linked the new pages from the main strategy concept, topics dashboard, and index.
+
+## [2026-04-07] analysis | Roger Martin strategy note and template
+
+- Added a durable analysis of Roger Martin's episode on crafting a winning strategy.
+- Added a reusable `Winning Strategy - 5 Questions` template based on the strategy choice cascade.
+- Updated `index.md` to surface the new analysis and template.
