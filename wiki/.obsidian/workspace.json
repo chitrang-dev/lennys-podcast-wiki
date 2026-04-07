@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "86f9142c126f1418",
+    "type": "split",
+    "children": [
+      {
+        "id": "73bfb34cd013d408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f96bde132f6e68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68ed6676a3a2c0d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6c38d3d976ec819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c9594499d270ef1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e57471a0b44e5b92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff7d9351db6ca4c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6746412ab310f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b1b18753e41c602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b914c7c2d3a3801f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "entities/Adam Fishman.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Adam Fishman"
+            }
+          },
+          {
+            "id": "bc89e2c6ca3e0471",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "entities/Adam Fishman.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adam Fishman"
+            }
+          },
+          {
+            "id": "6ba2fe62736d1fb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d1a8e2636b1953c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "75b63ef589c378ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "entities/Adam Fishman.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Adam Fishman"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "50f96bde132f6e68",
+  "lastOpenFiles": [
+    "concepts/Leadership.md",
+    "concepts/AI.md",
+    "concepts/Growth.md",
+    "concepts/Product Strategy.md",
+    "entities/Adam Fishman.md",
+    "dashboards/Episodes Dashboard.md",
+    "wiki/entities/Brian Chesky.md",
+    "dashboards/Guests Dashboard.md",
+    "wiki/entities",
+    "wiki",
+    "dashboards/Podcast Topics Dashboard.md",
+    "dashboards/Topics Dashboard.md"
+  ]
+}
